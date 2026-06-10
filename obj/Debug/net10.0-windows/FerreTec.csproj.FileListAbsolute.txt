@@ -1,0 +1,66 @@
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.DetalleProducto.resources
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.Main.resources
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.HManuales.resources
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.Properties.Resources.resources
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.AssemblyInfo.cs
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.exe
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.deps.json
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.runtimeconfig.json
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.pdb
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\EPPlus.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\EPPlus.Interfaces.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.csproj.Up2Date
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\refint\FerreTec.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.pdb
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.genruntimeconfig.cache
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\ref\FerreTec.dll
+C:\Users\PC\Downloads\CSharp\VS\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.NuevoProducto.resources
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.exe
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.deps.json
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.runtimeconfig.json
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\FerreTec.pdb
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\EPPlus.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\EPPlus.Interfaces.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\bin\Debug\net10.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.csproj.AssemblyReference.cache
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.DetalleProducto.resources
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.Main.resources
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.HManuales.resources
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.NuevoProducto.resources
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.Properties.Resources.resources
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.csproj.GenerateResource.cache
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.AssemblyInfoInputs.cache
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.AssemblyInfo.cs
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.csproj.CoreCompileInputs.cache
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.csproj.Up2Date
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\refint\FerreTec.dll
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.pdb
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\FerreTec.genruntimeconfig.cache
+C:\Users\Johan alberto\Downloads\Nueva carpeta (5)\FerreTec\FerreTec\obj\Debug\net10.0-windows\ref\FerreTec.dll
